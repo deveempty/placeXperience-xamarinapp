@@ -1,0 +1,33 @@
+{
+  "project_info": {
+    "project_number": "961027780308",
+    "project_id": "placexperience",
+    "storage_bucket": "placexperience.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961027780308:android:a3c3e64b2023ccbf4c9541",
+        "android_client_info": {
+          "package_name": "com.travelrecordapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+<<<<<<< HEAD
+          "current_key": "YOUR API KEY HERE"
+=======
+          "current_key": ""
+>>>>>>> ad24913 (API KEY instructions for google service)
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
